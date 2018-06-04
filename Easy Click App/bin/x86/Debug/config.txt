@@ -1,0 +1,4 @@
+;!@Install@!UTF-8!
+Progress="No"
+RunProgram="EasyInstaller.exe"
+;!@InstallEnd@!

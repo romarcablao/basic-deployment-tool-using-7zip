@@ -1,0 +1,11 @@
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\bin\x86\Debug\Easy Click App.exe.config
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\bin\x86\Debug\Easy Click App.exe
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\bin\x86\Debug\Easy Click App.pdb
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\bin\x86\Debug\Easy Click App.xml
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\obj\x86\Debug\Easy_Click_App.frmMain.resources
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\obj\x86\Debug\Easy_Click_App.Resources.resources
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\obj\x86\Debug\Easy Click App.vbproj.GenerateResource.Cache
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\obj\x86\Debug\Easy Click App.exe
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\obj\x86\Debug\Easy Click App.xml
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\obj\x86\Debug\Easy Click App.pdb
+C:\Users\ROMAR CABLAO\Documents\Visual Studio 2015\Projects\Easy Click App\Easy Click App\obj\x86\Debug\Easy Click App.vbprojResolveAssemblyReference.cache
