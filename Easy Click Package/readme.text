@@ -1,18 +1,8 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Easy Click Installer Setup and Deployment Tool</title>
-  </head>
-  <body>
-    <h1>Easy Click Installer Setup and Deployment Tool</h1>
-    <h2>Set-up Instructions:</h2>
-    <ul>
-      <li>1. Extract "Easy Click Installer.rar". Before Installing the package, download and install the 7-zip.exe. You may download it here: <a href="https://www.7-zip.org/download.html">https://www.7-zip.org/download.html</a></li>
-      <li>2. Also check if .Net Framework 4 is installed on your machine. If not, download and install the necessary file. Check Microsoft Website: <a href="https://www.microsoft.com/en-US/Download/confirmation.aspx?id=17718">https://www.microsoft.com/en-US/Download/confirmation.aspx?id=17718</a></li>
-      <li>3. After installing dependencies (7zip and .Net Framework 4), you can now install the package exe.</li>
-      <li>4. Enjoy and don't forget to leave suggestions and feedbacks. Thanks!</li>
-    </ul>
+Easy Click Installer Setup and Deployment Tool
 
-  </body>
-</html>
+Set-up Instructions:
+
+1. Extract "Easy Click Installer.rar". Before Installing the package, download and install the 7-zip.exe. You may download it here: https://www.7-zip.org/download.html
+2. Also check if .Net Framework 4 is installed on your machine. If not, download and install the necessary file. Check Microsoft Website: https://www.microsoft.com/en-US/Download/confirmation.aspx?id=17718
+3. After installing dependencies (7zip and .Net Framework 4), you can now install the package exe.
+4. Enjoy and don't forget to leave suggestions and feedbacks. Thanks!
